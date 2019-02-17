@@ -1,2 +1,2 @@
 # practice_project
-My practice project
+this is for a practice
